@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/LudivineV01/Blog-card-preview)
+- Live Site URL: [Live](https://ludivinev01.github.io/Blog-card-preview/)
 
 ## My process
 

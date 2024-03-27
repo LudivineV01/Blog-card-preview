@@ -78,7 +78,7 @@ body {
     margin-bottom: 12px; 
 }
 .content__desc{
-    font-size: clamp(0.75rem, 1vw, 1rem);
+    font-size: clamp(0.75rem, 1.5vw, 1rem);
     color: #7F7F7F;
     line-height: 1.4;
 }
